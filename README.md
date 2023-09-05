@@ -2,10 +2,15 @@
 YUV格式图片转RGBA形式
 支持：
 yuv422 uyvy
+
 yuv422 yuyv
+
 yuv422 yvyu
+
 yuv422 vyuy
+
 yuv420 NV21
+
 yuv420 NV12
 
 ## Getting started
