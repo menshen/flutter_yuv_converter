@@ -1,6 +1,6 @@
 name: yuv_converter
 description: Flutter yuv convert to rgba8888
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/menshen/flutter_yuv_converter
 
 environment:
